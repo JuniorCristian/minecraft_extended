@@ -1,0 +1,28 @@
+{
+    "format_version": "1.16",
+    "minecraft:recipe_shaped": {
+      "description": {
+      "identifier": "mcex:copper_pickaxe"
+      },
+  
+      "tags": [ "crafting_table" ],
+      "pattern": [
+        "CCC",
+        " S ",
+        " S "
+      ],
+      "key": {
+        "C": {
+          "item": "minecraft:copper_ingot"
+        },
+        "#": {
+          "item": "minecraft:stick"
+        }
+      },
+      "result": {
+        "item": "mcex:copper_pickaxe",
+        "data": 1
+      }
+    }
+    
+  }
